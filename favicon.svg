@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- 배경 -->
+  <rect width="32" height="32" rx="4" fill="#0f172a" />
+  
+  <!-- 비즈니스 차트 그래프 -->
+  <polyline points="6,22 12,15 18,19 26,10" stroke="#38bdf8" stroke-width="2" fill="none" />
+  
+  <!-- 상승 화살표 -->
+  <polyline points="22,10 26,10 26,14" stroke="#38bdf8" stroke-width="2" fill="none" />
+  
+  <!-- 원형 포인트 -->
+  <circle cx="12" cy="15" r="1.5" fill="#f43f5e" />
+  <circle cx="18" cy="19" r="1.5" fill="#f43f5e" />
+  <circle cx="26" cy="10" r="1.5" fill="#f43f5e" />
+</svg> 
